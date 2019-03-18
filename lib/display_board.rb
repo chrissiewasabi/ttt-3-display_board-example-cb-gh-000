@@ -7,5 +7,5 @@ def display_board
   board  += "   |   |   \n"
   board  += "-----------\n"
   board  += "   |   |   \n"
-puts   board 
+puts   board
 end
