@@ -2,9 +2,10 @@
 
 def display_board
 
-  puts "   |   |   \n"
-  puts "-----------\n"
-  puts "   |   |   \n"
-  puts "\n-----------\n"
-  puts "   |   |   \n"
+  expected_output  = "   |   |   \n"
+  expected_output += "-----------\n"
+  expected_output += "   |   |   \n"
+  expected_output += "-----------\n"
+  expected_output += "   |   |   \n"
+puts expected_output
 end
