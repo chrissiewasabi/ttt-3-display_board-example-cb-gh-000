@@ -2,9 +2,9 @@
 
 def display_board
 
-  puts "   |   |   "
+  puts "   |   |   \n"
+  puts "-----------\n"
+  puts "   |   |   \n"
   puts "\n-----------\n"
-  puts "   |   |   "
-  puts "\n-----------\n"
-  puts "   |   |   "
+  puts "   |   |   \n"
 end
