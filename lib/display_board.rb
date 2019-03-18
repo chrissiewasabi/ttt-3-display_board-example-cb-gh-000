@@ -3,18 +3,17 @@
 def display_board
   puts "Welcome to Tic Tac Toe"
   puts "   |   |   "
-  puts "-----------"
+  puts "\n-----------\n"
   puts "   |   |   "
-  puts "-----------"
+  puts "\n-----------\n"
   puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+
 
 puts "What move would X like to make (1-9)?"
 
 puts "   |   |   "
-puts "-----------"
+puts "\n-----------\n"
 puts "   | X  |   "
-puts "-----------"
+puts "\n-----------\n"
 puts "   |   |   "
 end
