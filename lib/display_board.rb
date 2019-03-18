@@ -7,13 +7,4 @@ def display_board
   puts "   |   |   "
   puts "\n-----------\n"
   puts "   |   |   "
-
-
-puts "What move would X like to make (1-9)?"
-
-puts "   |   |   "
-puts "\n-----------\n"
-puts "   | X  |   "
-puts "\n-----------\n"
-puts "   |   |   "
 end
